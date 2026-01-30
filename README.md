@@ -34,29 +34,32 @@
   - Loops & Conditions
   - Arrays & Strings
   - Basic Algorithms
-  - Thinking logically under constraints
+  - Logical thinking
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" width="48%" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
-- 💬 Telegram: [Your Telegram](https://t.me/USERNAME)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/USERNAME)
+## 💼 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-youssef-849a56382" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Youssef-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ✨ Motivation
-> *Every expert was once a beginner.  
-Consistency beats talent when talent doesn’t work hard.*
+> *Every expert was once a beginner.*  
+> *Consistency is the real key to success.*
 
 🚀 Always learning. Always improving.
 
